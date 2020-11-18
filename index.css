@@ -42,8 +42,14 @@ p{
 .t-xs{
 	font-size: 10px;
 }
+.t-sm{
+	font-size: 16px;
+}
 .t-lg{
 	font-size: 24px;
+}
+.text-light{
+	color: #fff;
 }
 .text-dim{
 	color: #949495;
